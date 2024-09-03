@@ -1,0 +1,22 @@
+{
+  "name": "wahednur-icons",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "icons",
+    "fontawesome",
+    "bootstrap",
+    "custom-icons",
+    "wahednur",
+    "web-development",
+    "UI",
+    "UX",
+    "design"
+  ],
+  "author": "wahednur",
+  "license": "ISC",
+  "description": "A comprehensive icon collection including FontAwesome, Bootstrap icons, and custom icons by Wahed Nur. Perfect for all your web development needs."
+}
